@@ -1,0 +1,33 @@
+{
+  "name": "SmartHome",
+  "version": "1.0.0",
+  "description": "SmartHome",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app"
+  },
+  "dependencies": {
+    "agenda": "0.9.1",
+    "atob": "2.0.3",
+    "bcryptjs": "2.4.3",
+    "body-parser": "1.16.1",
+    "canvas": "1.6.13",
+    "cors": "2.8.1",
+    "cron": "1.2.1",
+    "express": "4.14.1",
+    "jsonwebtoken": "7.3.0",
+    "moment": "2.18.1",
+    "mongodb": "2.2.25",
+    "mongoose": "4.8.4",
+    "mosca": "2.2.0",
+    "node-qrious": "4.0.0",
+    "nodemailer": "4.1.0",
+    "passport": "0.3.2",
+    "passport-jwt": "2.2.1",
+    "socket.io": "1.7.3",
+    "xoauth2": "1.2.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
